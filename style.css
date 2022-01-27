@@ -119,6 +119,7 @@ span{
         height: auto;
         width: 100%;
         display: block;
+        max-height: 570px;
     }
         .container-form{
         width: 235px;
