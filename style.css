@@ -120,5 +120,21 @@ span{
         width: 100%;
         display: block;
     }
+        .container-form{
+        width: 235px;
+        height: 420px;
+    }
+    .button-box{
+        width: 212x;
+
+    }
+    .social-icons{
+        margin-left: -2px;
+    }
+    .input-group{
+        top: 165px;
+        width: 180px;
+        margin-left: -30px;
+    }
 }
 
