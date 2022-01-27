@@ -115,11 +115,12 @@ span{
 @media only screen and (max-width: 400px){
     .container{
         background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(banner1.jpg);
-        background-size: cover;
         height: auto;
         width: 100%;
         display: block;
         max-height: 570px;
+        background-position: center;
+        background-size: 900px;
     }
         .container-form{
         width: 235px;
